@@ -1,4 +1,8 @@
 <?php
+
+
+
+
 $dbHostname = 'localhost';
     $dbDatabase = 'gabriel_gonzalez2';
     $dbUsername = 'ga.gonzalez2';
